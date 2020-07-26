@@ -15,6 +15,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="35" height="35"/> 
   <img src="https://image.flaticon.com/icons/svg/919/919836.svg" alt="mysql" width="35" height="35"/> 
   <img src="https://image.flaticon.com/icons/svg/919/919825.svg" alt="nodejs" width="35" height="35"/></p><p align="center"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/350px-Webysther_20160423_-_Elephpant.svg.png" alt="php" width="35" height="35"/></p><p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mateuzus&show_icons=true" alt="mateuzus" /> </p>
 
 <p align="center">
