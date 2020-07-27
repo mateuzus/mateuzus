@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateuzus</h1>
+<h1 align="center">Hi 👋, I'm Mateus</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuzus" alt="mateuzus" /> </p>
 
