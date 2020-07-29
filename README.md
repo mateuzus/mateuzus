@@ -19,7 +19,3 @@
     <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="45" height="40"/></p><p align="center"> 
    
   <img src="https://github-readme-stats.vercel.app/api?username=mateuzus&show_icons=true" alt="mateuzus" /> </p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mateusmarcelino/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mateusmarcelino/" height="20" width="20" /></a>
-</p>
