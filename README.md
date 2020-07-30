@@ -13,7 +13,7 @@
 - 📫 How to reach me **mateusdsmarcelino@gmail.com**
 
  
-  <img src="https://cdn.iconscout.com/icon/free/png-512/laravel-226015.png" alt="laravel" width="50" height="50"/> 
-    <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="50" height="50"/></p><p align="center"> 
+  <img src="https://cdn.iconscout.com/icon/free/png-512/laravel-226015.png" alt="laravel" width="40" height="40"/> 
+    <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="60" height="60"/></p><p align="center"> 
    
   <img src="https://github-readme-stats.vercel.app/api?username=mateuzus&show_icons=true" alt="mateuzus" /> </p>
