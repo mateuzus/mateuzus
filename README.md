@@ -12,10 +12,8 @@
 
 - 📫 How to reach me **mateusdsmarcelino@gmail.com**
 
-<p align="left"><img src="https://image.flaticon.com/icons/svg/888/888847.svg" alt="css3" width="35" height="35"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png" alt="dotnet" width="35" height="35"/> 
-  <img src="https://image.flaticon.com/icons/svg/174/174854.svg" alt="html5" width="35" height="35"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="35" height="35"/> 
+ 
+  <img src="https://i.dlpng.com/static/png/7199886_preview.png" alt="laravel" width="35" height="35"/> 
     <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="45" height="40"/></p><p align="center"> 
    
   <img src="https://github-readme-stats.vercel.app/api?username=mateuzus&show_icons=true" alt="mateuzus" /> </p>
