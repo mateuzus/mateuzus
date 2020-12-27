@@ -14,6 +14,7 @@
 
  
   <img src="https://cdn.iconscout.com/icon/free/png-512/laravel-226015.png" alt="laravel" width="45" height="45"/> 
-    <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="60" height="60"/></p><p align="center"> 
+    <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="60" height="60"/></p><p align="center">
+ <img src="https://www.flaticon.com/svg/static/icons/svg/1260/1260775.svg" alt="react" width="60" height="60"/>
    
   <img src="https://github-readme-stats.vercel.app/api?username=mateuzus&show_icons=true" alt="mateuzus" /> </p>
