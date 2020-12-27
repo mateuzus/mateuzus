@@ -17,6 +17,6 @@
  <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="45" height="45"/>
  <img src="https://www.flaticon.com/svg/static/icons/svg/1260/1260775.svg" alt="react" width="45" height="45"/>
  <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="css3" width="45" height="45"/>
- <img src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg" alt="html5" widht="45" height="45"/>
+ <img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" alt="html5" widht="45" height="45"/>
  </div>
  <img src="https://github-readme-stats.vercel.app/api?username=mateuzus&show_icons=true" alt="mateuzus" /> </p>
