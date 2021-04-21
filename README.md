@@ -15,7 +15,7 @@
  <div align-itens="center">
  <img src="https://cdn.iconscout.com/icon/free/png-512/laravel-226015.png" alt="laravel" width="45" height="45"/> 
  <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="45" height="45"/>
- <img src="https://www.flaticon.com/svg/vstatic/svg/528/528260.svg?token=exp=1613498858~hmac=3e7a4990f93cf38178e3ba111f2c233a" alt="mysql" width="45" height="45"/>
+ <img src="https://img2.gratispng.com/20180418/odq/kisspng-mysql-database-mariadb-phpmyadmin-blog-5ad7832572dd30.7737052115240732534705.jpg" alt="mysql" width="45" height="45"/>
  <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="css3" width="45" height="45"/>
  <img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" alt="html5" widht="45" height="45"/>
  </div>
