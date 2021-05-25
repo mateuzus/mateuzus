@@ -18,6 +18,6 @@
  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="60" height="45"/>
  <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="css3" width="45" height="45"/>
  <img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" alt="html5" widht="45" height="45"/>
- <img src="https://image.pngaaa.com/930/2507930-middle.png" alt="rn" width="45" height="45">
+ <img src="https://image.pngaaa.com/896/2507896-small.png" alt="rn" width="45" height="45">
  </div>
  <img src="https://github-readme-stats.vercel.app/api?username=mateuzus&show_icons=true" alt="mateuzus" /> </p>
