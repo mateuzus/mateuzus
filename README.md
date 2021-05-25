@@ -20,5 +20,6 @@
  <img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" alt="html5" widht="45" height="45"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/300px-React-icon.svg.png" alt="rn" width="70" height="55">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/96px-Vue.js_Logo_2.svg.png" alt="vuejs" width="45" height="45">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/390px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="45" height="45">
  </div>
  <img src="https://github-readme-stats.vercel.app/api?username=mateuzus&show_icons=true" alt="mateuzus" /> </p>
