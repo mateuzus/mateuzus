@@ -23,3 +23,4 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/390px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="45" height="45">
  </div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&layout=compact" alt="mateuzus" /> </p>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateuzus" alt="mateuzus-alt" />
