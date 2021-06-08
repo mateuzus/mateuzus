@@ -1,26 +1,76 @@
-<h1 align="center">Hi 👋, I'm Mateus</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuzus" alt="mateuzus" /> </p>
-<a href="https://api.whatsapp.com/send?phone=5512992584590&amp;text=Ol%C3%A1!" rel="nofollow"><img src="https://camo.githubusercontent.com/6fbd6934706e25c54b784db7392e2d6856069bd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174736170702d3443413134333f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d344341313433266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6170692e77686174736170702e636f6d2f73656e643f70686f6e653d3535313239393736353138323026746578743d4f6c25433325413121" alt="Whatsapp Badge" data-canonical-src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&amp;labelColor=4CA143&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://api.whatsapp.com/send?phone=5512997651820&amp;text=Ol%C3%A1!" target="_blank" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/mateusmarcelino/" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/5d86503e7dc090dd74b642730da0486f908f186b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f74616261746162616573736f2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mateusmarcelino/" style="max-width:100%;"></a>
+## Hi there 👋 I'm [Mateuzus][website] but you can call me Mateus 😀
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 
 
-- 🔭 I’m currently working on [Landing Page Agille](https://github.com/mateuzus/Agille_Landing_Page)
 
-- 👯 I’m looking to collaborate on [Agille Hoteis](https://github.com/carlosasjr/agilehotel)
+## 🎓 I am an Information Technology student at Fatec Guaratinguetá
 
-- 📫 How to reach me **mateusdsmarcelino@gmail.com**
+- 🔭 I’m currently developing a mobile app with React Native.
+- 🌱 I’m currently learning React Native and Typescript.
+- 👯 I’m looking to collaborate with anyone on any project.
+- 💬 Ask me about anything
 
- <div align-itens="center">
- <img src="https://cdn.iconscout.com/icon/free/png-512/laravel-226015.png" alt="laravel" width="45" height="45"/> 
- <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="php" width="45" height="45"/>
- <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="60" height="45"/>
- <img src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" alt="css3" width="45" height="45"/>
- <img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" alt="html5" widht="45" height="45"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/300px-React-icon.svg.png" alt="rn" width="70" height="55">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/96px-Vue.js_Logo_2.svg.png" alt="vuejs" width="45" height="45">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/390px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="45" height="45">
- </div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&layout=compact" alt="mateuzus" /> </p>
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateuzus" alt="mateuzus-alt" />
+## :email: Find me on:
+
+<!--
+[<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
+
+<p align="center">
+
+ <a href="https://www.linkedin.com/in/mateusmarcelino" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:mateusdsmarcelino@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+  
+</p>
+
+<br />
+
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+ 
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="Php" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+<br />
+
+
+
+## :trophy: My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mateuzus&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mateuzus&hide=php&theme=tokyonight" />
+</a>
+</div>
+
+
+
+[website]: https://mateuzus.github.io/
+[linkedin]: https://linkedin.com/in/mateusdsmarcelino
+[mail]: mailto:mateusdsmarcelino@gmail.com
+
+
+
