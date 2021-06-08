@@ -22,7 +22,7 @@
 <p align="center">
 
  <a href="https://www.linkedin.com/in/mateusmarcelino" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482199-linkedin_78667.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:mateusdsmarcelino@gmail.com"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" height="60" style="vertical-align:top; margin:4px"></a> 
+ <a href="mailto:mateusdsmarcelino@gmail.com"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" height="50" style="vertical-align:top; margin:4px"></a> 
   
 </p>
 
