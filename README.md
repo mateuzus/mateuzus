@@ -21,8 +21,8 @@
 
 <p align="center">
 
- <a href="https://www.linkedin.com/in/mateusmarcelino" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:mateusdsmarcelino@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://www.linkedin.com/in/mateusmarcelino" target="_blank" rel="noopener noreferrer"> <img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1623186233~hmac=d0b8f9e8f293a0200c81dcd3ac5505f1" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:mateusdsmarcelino@gmail.com"> <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
   
 </p>
 
