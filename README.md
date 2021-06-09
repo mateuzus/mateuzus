@@ -63,11 +63,11 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&langs_count=8">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&langs_count=8" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&&layout=compact&theme=chartreuse-dark">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&&layout=compact&theme=chartreuse-dark" />
 </a>
 </div>
 
