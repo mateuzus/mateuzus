@@ -49,8 +49,8 @@
 ## :trophy: My Github Stats:
 
 
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=midnight-purple)
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mateuzus&hide=php&theme=midnight-purple)
 
 
 
