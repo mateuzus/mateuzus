@@ -1,13 +1,9 @@
 ## Hi there 👋 I'm [Mateuzus][website] but you can call me Mateus 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=mateuzus.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/mateuzus?label=Followers&logo=Github)](https://github.com/mateuzus)
 
+## 👨🏽‍💻 I'm a web and mobile developer at Canção Nova Community
 
-
-
-## 🎓 I am an Information Technology student at Fatec Guaratinguetá
-
-- 🔭 I’m currently developing a mobile app with React Native.
-- 🌱 I’m currently learning React Native and Typescript.
+- 🔭 I'm currently developing improvements in Node, NestJs with Typescript.
+- 🌱 I’m currently learning React Native, Node, NestJs and Typescript.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 
@@ -48,10 +44,7 @@
  
  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 </p>
-
 <br />
-
-
 
 ## :trophy: My Github Stats:
 
