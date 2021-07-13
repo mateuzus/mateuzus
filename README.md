@@ -48,18 +48,11 @@
 
 ## :trophy: My Github Stats:
 
-<!--
+
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=midnight-purple)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=highcontrast">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=midnight-purple" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&&theme=highcontrast">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&&layout=compact&theme=tokyonight" />
-</a>
-</div>
+
+
 
 
 
