@@ -49,8 +49,7 @@
 ## :trophy: My Github Stats:
 
 
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=mateuzus&count_private=true&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus)
 
 
 
