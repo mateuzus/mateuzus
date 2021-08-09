@@ -2,18 +2,18 @@
 
 ## 👨🏽‍💻 I'm a web and mobile developer at Canção Nova Community
 
-- 🔭 I'm currently developing improvements in Node, NestJs with Typescript.
-- 🌱 I’m currently learning React Native, Node, NestJs and Typescript.
+- 🔭 I'm currently developing improvements in the external environment of the Canção Nova Community.
+- 🌱 I'm currently learning PHP, Laravel and Javascript.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 
 ## :email: Find me on:
 
-<!--
+
 [<img align="left" alt="CharalambosIoannou" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="CharalambosIoannou | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="CharalambosIoannou | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
+
 
 <p align="center">
 
@@ -28,7 +28,6 @@
 ## 🧰 Languages and Tools:
 <p align="center">
 
- <img src="https://image.flaticon.com/icons/png/512/919/919832.png" alt="React" height="40" style="vertical-align:top; margin:4px" alt="typescript" height="40" style="vertical-align:top; margin:4px">
   
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo-6.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
  
