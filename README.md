@@ -45,7 +45,7 @@
 ## :trophy: My Github Stats:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&theme=vision-friendly-dark)
 
 
 
