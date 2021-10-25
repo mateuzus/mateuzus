@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm [Mateuzus][website] but you can call me Mateus 😀
 
-## 👨🏽‍💻 I'm a web and mobile developer at Canção Nova Community
+## 👨🏽‍💻 I'm a web developer at InSTI
 
-- 🔭 I'm currently developing improvements in the external environment of the Canção Nova Community.
-- 🌱 I'm currently learning PHP, Laravel and Javascript.
+- 🔭 I'm currently developing improvements in InSTI's client process software.
+- 🌱 I'm currently learning PHP, Laravel and Angular.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
 
