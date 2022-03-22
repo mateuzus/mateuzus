@@ -44,14 +44,6 @@
 
 ## :trophy: My Github Stats:
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateuzus&theme=vision-friendly-dark)
-
-
-
-
-
-
 [website]: https://mateuzus.github.io/
 [linkedin]: https://linkedin.com/in/mateusdsmarcelino
 [mail]: mailto:mateusdsmarcelino@gmail.com
